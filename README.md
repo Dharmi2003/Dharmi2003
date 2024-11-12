@@ -2,15 +2,18 @@
 - 👀 I’m interested in:
   - Web
   - UI/UX
-  - QA
-- 🌱 I’m currently learning about:       - Basic & Fundamentals Concepts of Python
-  - AI
+  - Full Stack
+  - Data Science
+- 🌱 I’m currently learning about:
+  - Basic & Fundamentals Concepts of Python
+  - Full Stack Development Concepts
   - Web assembly for improved Web Performance
          Always eager to discuss new Technologies.....
 - 💞️ I’m looking to collaborate on:
   - Open-source software and tools
   - Web Development & UI/UX
-  - QA (Quality Assurance)
+  - Python
+  - Full Stack Development
         Interested in new challenges & ideas. Let's build something Amazing Together 👥️✌🏻
 - 📫 How to reach me:
   - 📧 Mail id: dhruvuprajapati12@gmail.com 
